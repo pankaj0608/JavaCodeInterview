@@ -3,7 +3,7 @@ import java.util.Date;
 /**
  * Created by pankaj on 6/21/2015.
  */
-public class a {
+public class b {
 
     public static void main(String[] args) {
 
