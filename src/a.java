@@ -9,7 +9,7 @@ public class a {
 
         int i, j=0;
         Date dt;
-        for (i = 7; i >= 0; --i)
+        for (i = 6; i >= 0; --i)
             System.out.println(i);
 
     }
