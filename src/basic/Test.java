@@ -12,7 +12,6 @@ public class Test {
 
         myGeneric.HelloWord("sfd",1);
 
-
     }
 
 }
