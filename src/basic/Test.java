@@ -10,7 +10,7 @@ public class Test {
     public static void main(String[] args) {
         MyGeneric myGeneric = new MyGeneric();
 
-        myGeneric.HelloWord("sfd");
+        myGeneric.HelloWord("sfd",1);
 
 
     }

@@ -14,4 +14,10 @@ public class MyGeneric {
 
         System.out.println(obj.getClass());
     }
+
+    public <T, E> void HelloWord(T obj, E abc) {
+
+        System.out.println(obj.getClass() + " : "  + abc.getClass());
+
+    }
 }
